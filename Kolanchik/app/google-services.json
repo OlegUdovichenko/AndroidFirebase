@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1085502862822",
+    "firebase_url": "https://pilligrimspacestation.firebaseio.com",
+    "project_id": "pilligrimspacestation",
+    "storage_bucket": "pilligrimspacestation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085502862822:android:2f90613d86046de8cb1227",
+        "android_client_info": {
+          "package_name": "com.example.kolanchik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085502862822-va76dm0ec2fqihp3t3g73b08aabo5nih.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kolanchik",
+            "certificate_hash": "ca8feb7042f90a7359192ff0ae8fe3ba433d4787"
+          }
+        },
+        {
+          "client_id": "1085502862822-pr619d03hme1dka3au6d42of2tj1g4a0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGSOgxlEuPa5rdTnm3vFl5vanXiHGLu2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085502862822-pr619d03hme1dka3au6d42of2tj1g4a0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
